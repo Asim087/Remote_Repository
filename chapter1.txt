@@ -1,1 +1,4 @@
 This is my frist update for git practicing the project
+
+
+this is the seocd branch  written code
